@@ -116,8 +116,7 @@
 				
 		    		<label>Nombre:</label> <input type="text" class="form-control" id="nombreR"/>
 				
-					<label id="cedulal">Cedula:</label> <input type="text" class="form-control" id="cedulaR" />
-				       
+									       
 				        
 		    	 </fieldset>
 			        
